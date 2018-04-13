@@ -2,7 +2,7 @@
 
 set -e
 
-REPO=zhangyuan/superset
+REPO=zhangyuan/flask-app-example
 
 DOCKER_USERNAME=${DOCKER_USERNAME}
 DOCKER_PASSWORD=${DOCKER_PASSWORD}
