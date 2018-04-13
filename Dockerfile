@@ -9,4 +9,4 @@ EXPOSE 8088
 
 COPY main.py /app/
 
-CMD ["gunicorn", "-b", "0.0.0.0:8808", "main:app"]
+CMD ["gunicorn", "-b", "0.0.0.0:8088", "main:app"]
